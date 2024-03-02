@@ -3,7 +3,7 @@
 This toy jupyter notebook is meant to give a curiosity interpretation/result of the lienar regression given a particular dataframe full of 1 and zeros (with at most only one 1 per rows, otherwise zero). This could be used as questions during interview
 
 ## Problem setting
-We have three columns named x1, x2, x3. These are binary columns. A row has at most one 1, all the other values are zero. The target column y is fill with random values taken from a guassian of mu  = 50000 and signa = 10000.
+We have three columns named x1, x2, x3. These are binary columns. A row has at most one 1, all the other values are zero. The target column y is fill with random values taken from a guassian of mu  = 50000 and sigma = 10000.
 
 We fit an OLS model with and without the constant value.
 
